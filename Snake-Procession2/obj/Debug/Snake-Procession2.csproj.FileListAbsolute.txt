@@ -1,0 +1,6 @@
+C:\Repos\Codechef\Beginner\Snake-Procession2\Snake-Procession2\bin\Debug\Snake-Procession2.exe.config
+C:\Repos\Codechef\Beginner\Snake-Procession2\Snake-Procession2\bin\Debug\Snake-Procession2.exe
+C:\Repos\Codechef\Beginner\Snake-Procession2\Snake-Procession2\bin\Debug\Snake-Procession2.pdb
+C:\Repos\Codechef\Beginner\Snake-Procession2\Snake-Procession2\obj\Debug\Snake-Procession2.csprojResolveAssemblyReference.cache
+C:\Repos\Codechef\Beginner\Snake-Procession2\Snake-Procession2\obj\Debug\Snake-Procession2.exe
+C:\Repos\Codechef\Beginner\Snake-Procession2\Snake-Procession2\obj\Debug\Snake-Procession2.pdb
