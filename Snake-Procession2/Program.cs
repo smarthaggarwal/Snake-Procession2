@@ -10,6 +10,8 @@ namespace Snake_Procession2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Test CodeChef.");
+            Console.ReadLine();
         }
     }
 }
